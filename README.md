@@ -24,6 +24,6 @@ Simple chat app in Go.
 - `client.go` - Client
 
 ## Test Video
-📹 **Video Link:** [Add your video link here]
+📹 **Video Link:** [[Add your video link here](https://drive.google.com/file/d/11t7ea0fVq0tsoQHZ2NGHxAltftdgQ4zA/view?usp=drive_link)]
 
 That's it! 🎉
